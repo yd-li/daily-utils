@@ -1,7 +1,7 @@
 import os
 import shutil
 
-DATA_PATH = '/Users/yuandali/Programs/NYU_MMVC/data'
+DATA_PATH = '/Users/yuandali/Programs/daily-utils/Implementation/data'
 
 def get_dir_list(path):
     items = os.listdir(path)
